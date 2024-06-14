@@ -13,9 +13,9 @@
 
 - 🌱 Proficienly SKilled in - (Mobile Aapp Development) - React Native (Databases) - SQL, MySql.    (Coud Storage) Firebase, 
 
-- 💬 Ask me about **python, javascript and bootstrap, MERN STACK**
+- 💬 Ask me about **python, C ++, HTML, CSS**
 
-- 📫 How to reach me **oseikelvin709@gmail.com**
+- 📫 How to reach me **fkkankam@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
