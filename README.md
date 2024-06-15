@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FRED</h1>
-<img src="octocat" alt="My octocat">
+<img src="octocat.png" alt="My octocat">
 <h3 align="center">A passionate Software developer and Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FREDYK1&label=Profile%20views&color=0e75b6&style=flat" alt="FREDYK1" /> </p>
