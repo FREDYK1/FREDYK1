@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm FRED</h1>
-<img src="octocat.png" alt="My octocat">
+<img src="octocat.png" alt="My octocat" style="background-color: black;">
 <h3 align="center">A passionate Software developer and Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FREDYK1&label=Profile%20views&color=0e75b6&style=flat" alt="FREDYK1" /> </p>
@@ -12,7 +12,7 @@
 
 - 🔭 Proficiently Skilled in - (Web Application Development) NodeJS, ReactJS, NextJS, REST API,
 
-- 🌱 Proficienly SKilled in - (Mobile Aapp Development) - React Native (Databases) - SQL, MySql.    (Coud Storage) Firebase, 
+- 🌱 Proficienly SKilled in - (Mobile App Development) - React Native (Databases) - SQL, MySql.    (Cloud Storage) Firebase, 
 
 - 💬 Ask me about **python, C ++, HTML, CSS**
 
