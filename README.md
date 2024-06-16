@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **fkkankam@gmail.com**
   
-- I am seriously Motivated to start and finish my work.
+-    I am seriously Motivated to start and finish my work.
 
 - ⚡ Fun fact **I think I am funny**
   
