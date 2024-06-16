@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/FredKankam360" target="blank"><img align="center" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AX_logo.jpg&psig=AOvVaw3rk0hEL1NZTr7btbXleuxV&ust=1718644269802000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPiGwfvO4IYDFQAAAAAdAAAAABAE)" alt="1stblackcousin" height="30" width="40" /></a>
+<a href="https://x.com/FredKankam360" target="blank"><img align="center" src="download.png" alt="X logo" height="30" width="40" /></a>
 <a href="https://instagram.com/kevvin_black" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevvin_black" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" height="30" width="40" /></a>
   
