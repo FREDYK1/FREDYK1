@@ -19,6 +19,7 @@
 - I am seriously Motivated to start and finish my work.
 
 - ⚡ Fun fact **I think I am funny**
+-    Recent Certification <img src="" alt="OCTOCAT" width="1000">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,5 +47,4 @@
  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FREDYK1&theme=dracula)  
-
 
