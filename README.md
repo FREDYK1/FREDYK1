@@ -12,11 +12,11 @@
 
 - 🔭 Proficiently Skilled in - Python Desktop App Development
 
-- 🌱 Proficienly SKilled in - (Mobile App Development) - React Native (Databases) - SQL, MySql.    (Cloud Storage) Firebase, 
-
 - 💬 Ask me about **python, C ++, HTML, CSS**
 
 - 📫 How to reach me **fkkankam@gmail.com**
+  
+-![download](https://github.com/FREDYK1/FREDYK1/assets/170036871/22d3d3f1-0e66-4fc1-8711-8d8a91dfc003)I am seriously Motivated to start and finish my work.
 
 - ⚡ Fun fact **I think I am funny**
 
