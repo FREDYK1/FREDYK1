@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FRED</h1>
 <img src="octocat-removebg-preview.jpg" alt="OCTOCAT" width="1000">
-<h3 align="center">A passionate Software developer and Python Developer</h3>
+<h3 align="center">A Website and Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FREDYK1&label=Profile%20views&color=0e75b6&style=flat" alt="FREDYK1" /> </p>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FREDYK1" alt="FREDYK1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/justcodez" target="blank"><img src="https://img.shields.io/twitter/follow/justcodez?logo=twitter&style=for-the-badge" alt="justcodez" /></a> </p>
+<p align="left"> <a href="https://x.com/FredKankam360" target="blank"><img src="https://img.shields.io/twitter/follow/FredKankam360?logo=twitter&style=for-the-badge" alt="FredKanakam360" /></a> </p>
 
-- 🔭 Proficiently Skilled in - (Web Application Development) NodeJS, ReactJS, NextJS, REST API,
+- 🔭 Proficiently Skilled in - Python Desktop App Development
 
 - 🌱 Proficienly SKilled in - (Mobile App Development) - React Native (Databases) - SQL, MySql.    (Cloud Storage) Firebase, 
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/justcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1stblackcousin" height="30" width="40" /></a>
+<a href="https://x.com/FredKankam360" target="blank"><img align="center" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AX_logo.jpg&psig=AOvVaw3rk0hEL1NZTr7btbXleuxV&ust=1718644269802000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPiGwfvO4IYDFQAAAAAdAAAAABAE)" alt="1stblackcousin" height="30" width="40" /></a>
 <a href="https://instagram.com/kevvin_black" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevvin_black" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc67agzxax7p8d03hut2zfoq" height="30" width="40" /></a>
   
