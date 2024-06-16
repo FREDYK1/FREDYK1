@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **fkkankam@gmail.com**
   
--![download](https://github.com/FREDYK1/FREDYK1/assets/170036871/22d3d3f1-0e66-4fc1-8711-8d8a91dfc003)I am seriously Motivated to start and finish my work.
+- I am seriously Motivated to start and finish my work.
 
 - ⚡ Fun fact **I think I am funny**
 
