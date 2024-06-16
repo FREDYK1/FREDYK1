@@ -28,6 +28,7 @@
 <a href="https://x.com/FredKankam360" target="blank"><img align="center" src="images (1).jpg" alt="X logo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/frederick.kankam.360/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frederick.kankam.360" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@FREDYK1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@FREDYK1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/frederick-kankam-85646a302/" target="blank"><img align="center" src="" alt="frederick.kankam.360" height="30" width="40" /></a>
   
   
   
