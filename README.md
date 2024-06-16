@@ -19,7 +19,9 @@
 - I am seriously Motivated to start and finish my work.
 
 - ⚡ Fun fact **I think I am funny**
--    Recent Certification <img src="" alt="OCTOCAT" width="1000">
+  
+-    Recent Certification
+  <img src="AI PROMPT ENGINEERING CERTIFICATE_page-0001.jpg" alt="AI PROMPT CERT." width="1000">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
