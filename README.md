@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FRED</h1>
 <img src="octocat-removebg-preview.jpg" alt="OCTOCAT" width="1000">
-<h3 align="center">A Website and Python Developer</h3>
+<h3 align="center">A Backend Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FREDYK1&label=Profile%20views&color=0e75b6&style=flat" alt="FREDYK1" /> </p>
 
